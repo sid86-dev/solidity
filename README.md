@@ -1,1 +1,1 @@
-# solidity Tutorial
+# solidity Smart Contract Projects
